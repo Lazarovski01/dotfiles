@@ -1,0 +1,7 @@
+.ssh/
+*.key
+*.crt
+*.cert
+*.pem
+*.kube/
+.env
