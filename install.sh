@@ -13,3 +13,6 @@ fi
 # --- end ---
 EOF
 
+
+echo "alias ll='ls -la --color=auto'" >> ~/.bashrc
+echo "set -o vi" >> ~/.bashrc
