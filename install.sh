@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Hello World!" > /tmp/hello
+echo "Hello World alee!" > /tmp/hello
 
 cat >> ~/.bashrc <<'EOF'
 # --- DevPod terminal sanity (TERM & backspace) ---
@@ -16,3 +16,4 @@ EOF
 
 echo "alias ll='ls -la --color=auto'" >> ~/.bashrc
 echo "set -o vi" >> ~/.bashrc
+
